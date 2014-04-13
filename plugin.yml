@@ -1,0 +1,6 @@
+name: Egghunt
+main: com.frogman786.Egghunt.Egghunt
+version: 0.5
+commands:
+  eggs:
+    description: submits egg score
